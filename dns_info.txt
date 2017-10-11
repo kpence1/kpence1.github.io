@@ -1,6 +1,0 @@
-master: 144.38.205.10
-slave:  144.38.205.11
-domain: alfredo.it.cit.dixie.edu
-ns1:    ns1.alfredo.it.cit.dixie.edu
-ns2:    ns2.alfredo.it.cit.dixie.edu
-hosts:  host1.alfredo.it.cit.dixie.edu:144.38.205.20, host2.alfredo.it.cit.dixie.edu:144.38.205.21, host3.alfredo.it.cit.dixie.edu:144.38.205.22, host4.alfredo.it.cit.dixie.edu:144.38.205.23
