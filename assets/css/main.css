@@ -3814,3 +3814,10 @@
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+.kaden {
+	color: #0134FF;
+	font-size: 16px;
+	font-weight: 700;
+}
+
